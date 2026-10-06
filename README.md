@@ -8,6 +8,8 @@
 
 An interactive Power BI dashboard visualizing the global distribution of movie and TV content using the IMDB Non-Commercial Dataset combined with detailed regional demographics.
 
+<img width="1430" height="805" alt="image" src="https://github.com/user-attachments/assets/f8682632-d605-46c6-9fb7-3b339d09f66f" />
+
 While the frontend features a rich geospatial interface, **the core focus of this project is a robust backend data architecture**—featuring custom data schemas, advanced ETL pipelines, and the seamless integration of multiple disparate data sources to build a rock-solid foundation for visualization.
 
 ---
